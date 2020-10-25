@@ -1,0 +1,113 @@
+.nav_text{
+  font-size:19px;
+  padding:5px;
+  text-decoration:none !important;
+  color:white;
+}
+.nav_text:hover{
+  color:orange;
+}
+.item_carousel{
+  height: 450px;
+}
+
+.carousel_item_1{
+  background:linear-gradient(#0000,black),url(../img/bot.jpg);
+  background-attachment:scroll;
+  background-size: cover;
+  background-position: center top;
+
+}
+.carousel_item_2{
+  background:linear-gradient(#0000,black),url(../img/IMG_20200627_101507.jpg);
+  background-attachment:scroll;
+  background-size: cover;
+  background-position: center top;
+
+}
+.carousel_item_3{
+  background:linear-gradient(#0000,black),url(../img/IMG_20200627_100722.jpg);
+  background-attachment:scroll;
+  background-size: cover;
+  background-position: center top;
+
+}
+.box .fa{
+  font-size:45px;
+  margin-bottom: 10px;
+}
+.Get_start_section{
+  background:linear-gradient(#00000057,#2d28288c),url(../img/IMG_20200627_101602.jpg);
+  background-attachment:fixed;
+  background-size: cover;
+  background-position: center center;
+}
+h2.get_start{
+  font-size:36px;
+}
+.fa-play{
+  font-size:45px !important;
+  margin-bottom:20px;
+  color:white;
+}
+.fa-play:hover{
+  color:orange;
+}
+.youtube_section{
+  background:linear-gradient(#00000057,#2d28288c),url(../img/blur_eff.png);
+  background-attachment:scroll;
+  background-size: cover;
+  background-position: center center;
+}
+.bordered{
+  border:1px solid orange;
+  margin-bottom: 0px !important;
+  background: black;
+}
+.about_head{
+  background:linear-gradient(#00000047,#2d282840),url(../img/GALLERY/4.jpg);
+  background-attachment:scroll;
+  background-size: cover;
+  background-position: center top;
+}
+.icon_about .fa{
+  font-size:45px;
+  margin-top:15px;
+  color:white;
+}
+.carousel_item_about{
+  height:200px;
+
+}
+.about_caption{
+    color:black !important;
+}
+.indicator_about li{
+  background: black;
+}
+.indicator_about .active{
+  background:orange;
+}
+.services_section{
+  background:linear-gradient(#00000047,#2d282840),url(../img/GALLERY/1.jpg);
+  background-attachment:scroll;
+  background-size: cover;
+  background-position:top top;
+}
+.text_asked{
+  text-decoration: none !important;
+}
+.blog_header{
+  background:linear-gradient(#00000047,#2d282840),url(../img/SUN.png);
+  background-attachment:scroll;
+  background-size: cover;
+  background-position:top top;
+  color:white;
+}
+.contuct_section{
+  background:linear-gradient(#00000047,#2d282840),url(../img/GALLERY/3.jpg);
+  background-attachment:scroll;
+  background-size: cover;
+  background-position:top top;
+  color:white;
+}
